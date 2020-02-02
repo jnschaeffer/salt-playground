@@ -1,0 +1,3 @@
+base:
+  'hewwo':
+    - kubeconfig
