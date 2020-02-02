@@ -1,5 +1,5 @@
 base:
   'kube-*':
-    - kubernetes.kubeconfig
-    - kubernetes.wiki
-    - kubernetes.python
+    - kubernetes-formula.kubeconfig
+    - kubernetes-formula.wiki
+    - kubernetes-formula.python

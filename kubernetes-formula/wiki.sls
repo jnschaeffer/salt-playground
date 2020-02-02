@@ -1,5 +1,5 @@
 include:
-  - kubernetes.kubeconfig
+  - kubernetes-formula.kubeconfig
 
 wiki-deployment:
   kubernetes.deployment_present:
