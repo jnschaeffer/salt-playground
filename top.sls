@@ -2,4 +2,4 @@ base:
   'kube-*':
     - kubernetes.kubeconfig
     - kubernetes.wiki
-    - python
+    - kubernetes.python
